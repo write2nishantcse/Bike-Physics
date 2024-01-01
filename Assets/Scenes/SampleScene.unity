@@ -2036,6 +2036,7 @@ MonoBehaviour:
   frontTyre: {fileID: 2103922988}
   chasis: {fileID: 7452646411415837487}
   rearTyre: {fileID: 5259947296512330183}
+  distanceFromGround: 0.86
 --- !u!4 &2103922988
 Transform:
   m_ObjectHideFlags: 0
@@ -2044,7 +2045,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2103922986}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 215.3257, y: 0.8108999, z: 364.3615}
+  m_LocalPosition: {x: 215.3257, y: 0.73, z: 364.3615}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
